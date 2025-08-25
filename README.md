@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:43cea2,100:185a9d&height=200&section=header&text=Mateus%20Mantovi%20Costa&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="capa vibrante"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00c896&height=200&section=header&text=Mateus%20Mantovi%20Costa&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="capa animada"/>
 </p>
 
  Sobre Mim:
