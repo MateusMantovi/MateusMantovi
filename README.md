@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:654ea3,100:eaafc8&height=200&section=header&text=Mateus%20Mantovi%20Costa&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="capa dinâmica"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Mateus%20Mantovi%20Costa&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="capa minimalista"/>
 </p>
 
  Sobre Mim:
