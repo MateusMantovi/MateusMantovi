@@ -54,13 +54,11 @@
 ## 🏆 Conquistas
 
 <p align="center">
-  <!-- Troféus (quando o serviço estiver no ar) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MateusMantovi&theme=radical&no-frame=true&margin-w=15" alt="Troféus do GitHub" />
-</p>
-
-<p align="center">
-  <!-- Card alternativo que SEMPRE carrega -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MateusMantovi&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Estatísticas alternativas" />
+  <!-- Substituto: Badges -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-Mastery-success?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Pro-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Power-lightblue?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
