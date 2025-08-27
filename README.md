@@ -54,8 +54,7 @@
 ## 🏆 Conquistas
 
 <p align="center">
-  <!-- Substituto: Heatmap -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusMantovi&theme=tokyo-night&hide_border=true" alt="Mapa de Contribuições" />
+  <img src="https://raw.githubusercontent.com/MateusMantovi/MateusMantovi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
