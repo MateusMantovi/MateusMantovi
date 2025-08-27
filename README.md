@@ -52,7 +52,9 @@
 ---
 
 ## 🏆 Troféus
-![](https://github-profile-trophy.vercel.app/?username=MateusMantovi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MateusMantovi&theme=onedark&no-frame=true&margin-w=15" alt="Troféus do GitHub" />
+</p> 
 
 ---
 
