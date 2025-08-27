@@ -51,11 +51,10 @@
 
 ---
 
-## 🏆 Troféus
+## 🏆 Troféus / Atividade
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MateusMantovi&theme=radical&no-frame=true&margin-w=15" alt="Troféus do GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusMantovi&theme=react-dark&hide_border=true" alt="Gráfico de Atividade do GitHub" />
 </p>
-
 
 ---
 
