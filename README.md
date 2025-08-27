@@ -2,17 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00c896&height=200&section=header&text=Mateus%20Mantovi%20Costa&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="capa animada"/>
 </p>
 
-## Sobre Mim:
-🎓 Estudante de Engenharia de Computação (4º ano)<br>
-💼 Desenvolvedor Backend & Frontend<br>
-⚡ Apaixonado por tecnologia, dados e sistemas distribuídos<br>
-📍 Localização: Brasil<br>
+ Sobre Mim:
+🎓 Estudante de Engenharia de Computação (4º ano)<br>  
+💼 Desenvolvedor Backend & Frontend<br>  
+⚡ Apaixonado por tecnologia, dados e sistemas distribuídos<br>  
+📍 Localização: Brasil<br>  
 📚 Foco atual: Java com Spring Boot, PostgreSQL, Vue.js, Docker e AWS
 
 ---
 
 ## 🌐 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusmantovi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusmantovi/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusmantovi@gmail.com)
 
 ---
@@ -46,13 +46,13 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=MateusMantovi&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MateusMantovi&theme=aura&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MateusMantovi&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMantovi&theme=aura&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 Troféus
-![](https://github-profile-trophy.vercel.app/?username=MateusMantovi&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_bust=1)
+![](https://github-profile-trophy.vercel.app/?username=MateusMantovi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -64,3 +64,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MateusMantovi&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" />
 </p>
+
+<!--
+  🔧 Este README foi gerado e estilizado por Mateus Mantovi usando GPRM + Shields.io
+-->
