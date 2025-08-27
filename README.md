@@ -54,11 +54,8 @@
 ## 🏆 Conquistas
 
 <p align="center">
-  <!-- Substituto: Badges -->
-  <img src="https://img.shields.io/badge/Spring%20Boot-Mastery-success?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Pro-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Power-lightblue?style=for-the-badge&logo=docker&logoColor=white" />
+  <!-- Substituto: Heatmap -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusMantovi&theme=tokyo-night&hide_border=true" alt="Mapa de Contribuições" />
 </p>
 
 ---
