@@ -43,13 +43,6 @@
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=MateusMantovi&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MateusMantovi&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMantovi&theme=aura&hide_border=false&layout=compact)
-
----
 ---
 
 ### 💡 Frase Dev do Dia
