@@ -7,7 +7,7 @@
 💼 Desenvolvedor Backend & Frontend<br>  
 ⚡ Apaixonado por tecnologia, dados e sistemas distribuídos<br>  
 📍 Localização: Brasil<br>  
-📚 Foco atual: Java com Spring Boot, PostgreSQL, Vue.js, Docker e AWS
+📚 Foco atual: Java com Spring Boot, Angular, Typescrit, Vue.js, PostgreSQL, My Sql, Docker e AWS
 
 ---
 
