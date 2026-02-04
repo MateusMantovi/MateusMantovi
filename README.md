@@ -3,11 +3,17 @@
 </p>
 
  Sobre Mim:
+
 💼 Desenvolvedor Backend & Frontend <br>
+
 🎓 Estudante de Engenharia de Computação (5º ano)<br>
+
 ⚡ Foco em enterprise e sistemas hibridos<br>  
-📍 Localização: Maringá-Paraná-Brasil<br>  
+
+📍 Localização: Maringá-Paraná-Brasil<br>
+
 📚 Foco atual: Java com Spring Boot, Angular, Typescrit, Vue.js, PostgreSQL, My Sql, Docker e AWS
+
 
 ---
 
