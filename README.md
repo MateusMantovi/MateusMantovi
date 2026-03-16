@@ -4,15 +4,13 @@
 
  Sobre Mim:
 
-💼 Desenvolvedor Backend & Frontend <br>
-
-🎓 Estudante de Engenharia de Computação (5º ano)<br>
+💼 Desenvolvedor FullStack Junior <br>
 
 ⚡ Foco em enterprise e sistemas hibridos<br>  
 
 📍 Localização: Maringá-Paraná-Brasil<br>
 
-📚 Foco atual: Java com Spring Boot, Angular, Typescrit, Vue.js, PostgreSQL, My Sql, Docker e AWS
+📚 Foco atual: Java Spring Boot, Python, Nest.js, Angular, Javascript, Typescrit, Vue.js, PostgreSQL, My Sql, Docker e AWS
 
 
 ---
@@ -28,7 +26,11 @@
 ### **Backend**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
