@@ -4,7 +4,7 @@
 
  Sobre Mim:
 
-💼 Desenvolvedor FullStack Junior <br>
+💼 Trabalho como Desenvolvedor FullStack Junior <br>
 
 ⚡ Foco em enterprise e sistemas hibridos<br>  
 
