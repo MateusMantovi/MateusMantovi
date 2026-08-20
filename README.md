@@ -1,5 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00c896&height=200&section=header&text=Mateus%20Mantovi%20Costa&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="capa animada"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1a1a,50:0a3d3d,100:00c896&section=header&text=Mateus%20Mantovi%20Costa&fontSize=42&fontColor=ffffff&fontAlign=50&desc=Desenvolvedor%20Full%20Stack%20%7C%20IA%20%7C%20Open%20Source&descSize=18&descAlignY=62&animation=twinkling&stroke=00c896&strokeWidth=1" alt="capa animada" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00C896&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Entusiasta+de+IA+e+Machine+Learning;Contribuidor+Open+Source;Apaixonado+por+tecnologia" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00c896&height=100&section=footer" alt="wave footer"/>
 </p>
 
  Sobre Mim:
